@@ -8,6 +8,7 @@ Instalação das dependências para o Linux
 		http://packages.ubuntu.com/
 
 Comandos
+
 	sudo sh -c 'echo "deb http://security.ubuntu.com/ubuntu trusty-security main universe" > /etc/apt/sources.list'
 	sudo apt-get update
 	sudo apt-get install clang-3.5
